@@ -1,34 +1,36 @@
-# webtech
 This repository contains mini-projects created using HTML, CSS, and JavaScript as part of our Web Technology learning.
 
-## 🔍 Contents
+🔍 Contents
+📊 Currency Converter
+Converts one currency to another using static rates.
 
-1. **Currency Converter**
-   - Converts one currency to another using static rates.
-   - Frontend: HTML, CSS, JavaScript.
+Frontend: HTML, CSS, JavaScript
 
-2. **Sign-In Form**
-   - Simple login UI with basic HTML and CSS styling.
+🔐 Sign-In Form
+Simple login UI
 
-3. **HTML & CSS Demo**
-   - Basic web page layout with HTML and CSS for design practice.
+Frontend: HTML, CSS
 
+🎨 HTML & CSS Demo
+Basic web page layout for design practice
 
-##📂** File Structure**
+Frontend: HTML, CSS
+
+📂 File Structure
 
 /WEB-TECH
 │── /currency converter
-│   │── converter.html
-│   │── converter.css
-│   │── currencycoventer-output.pdf
-│  
-│── /Forms  
-│   │── one.html
-│   │── one.css
-│   │── output.pdf
-│   │── /Florence_Img
-│  
-│── /Stopwatch  
-│   │── two.html
-│   │── two.css
-│   │── SignUp form-output.pdf
+│   ├── converter.html
+│   ├── converter.css
+│   └── currencyconverter-output.pdf
+│
+│── /Forms
+│   ├── one.html
+│   ├── one.css
+│   ├── output.pdf
+│   └── /Florence_Img
+│
+│── /Stopwatch
+│   ├── two.html
+│   ├── two.css
+│   └── SignUp form-output.pdf
