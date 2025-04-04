@@ -12,3 +12,21 @@ This repository contains mini-projects created using HTML, CSS, and JavaScript a
 
 3. **HTML & CSS Demo**
    - Basic web page layout with HTML and CSS for design practice.
+📂 File Structure
+
+/WEB-TECH
+│── /currency converter
+│   │── converter.html
+│   │── converter.css
+│   │── currencycoventer-output.pdf
+│  
+│── /Forms  
+│   │── one.html
+│   │── one.css
+│   │── output.pdf
+│   │── /Florence_Img
+│  
+│── /Stopwatch  
+│   │── two.html
+│   │── two.css
+│   │── SignUp form-output.pdf
